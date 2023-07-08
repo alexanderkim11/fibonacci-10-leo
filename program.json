@@ -1,0 +1,10 @@
+{
+    "program": "fibonacci_10_v2.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp6MLa4wdv7ZfuwQwhDhUKGvwXzosk69ZeMEqNR4dBxESR",
+        "address": "aleo1x386enxrjuls4s9v6frc3elsv7a2tnvy2gyt5pu6hzv9jme0pqfqcpdydz"
+    },
+    "license": "MIT"
+}
